@@ -1,5 +1,5 @@
 Signature-Version: 1.0
-SHA1-Digest-Manifest: zC+XfwudHM/nZMpNElbUaSIDtBU=
+SHA1-Digest-Manifest: Fm4FsXRMrOA2tAyBROdgwtItepA=
 Created-By: 1.0 (Android SignApk)
 
 Name: res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png
@@ -48,7 +48,7 @@ Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.
 SHA1-Digest: HzzcNPkBU77oEUJYNn8ituzD+SM=
 
 Name: assets/sounds/sfx_wing.ogg
-SHA1-Digest: vXLPckjQOq3pmS9JM1Q+M0gSoSo=
+SHA1-Digest: +5oA7LonX/ye5C1sxqLq6YrsA3A=
 
 Name: res/drawable-xhdpi/ic_plusone_tall_off_client.png
 SHA1-Digest: wDdGrtP4hbug9WTBpZLiwRSklx8=
@@ -109,7 +109,7 @@ Name: res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png
 SHA1-Digest: qUcGujQgY3QfBQ7e7RA6fvHeWXo=
 
 Name: assets/sounds/sfx_point.ogg
-SHA1-Digest: dfauNMVT+JSU4A6Q3tWfDOu5bBQ=
+SHA1-Digest: NOyPxXorwGIm8/cVlRAEk63bELE=
 
 Name: res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png
 SHA1-Digest: JpPY2hfysLOgyzVg3zFL9LLoKNw=
@@ -154,7 +154,7 @@ Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9
 SHA1-Digest: tKZQbQCQMv7utwCOpeW9qUkpCHI=
 
 Name: assets/sounds/sfx_swooshing.ogg
-SHA1-Digest: P2l2YrNdPpL6QdXYtbOjP5KZOE0=
+SHA1-Digest: gDqwlzjMXdVxHhbzNuaWWXdhWKU=
 
 Name: res/drawable-hdpi/ic_plusone_tall_off_client.png
 SHA1-Digest: u9m8DNPyctAszy/bxpNhW/anLw8=
@@ -195,7 +195,7 @@ Name: res/drawable-mdpi/ic_launcher.png
 SHA1-Digest: scOiy+U1qEC8xrGE96femzry4r8=
 
 Name: assets/gfx/atlas.png
-SHA1-Digest: 7bxOIm7ntLzDL6L1KJ5LApppnHk=
+SHA1-Digest: ktwaqK56j55tDInNOBJaSD3DG40=
 
 Name: res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png
 SHA1-Digest: m0cBq0iAZgmwfVVScmOKJQ3cYIs=
@@ -251,13 +251,13 @@ Name: res/drawable-xhdpi/ic_plusone_small_off_client.png
 SHA1-Digest: 2HLt+gKVr7onG6kGTzG+1iIFXJ8=
 
 Name: assets/sounds/sfx_die.ogg
-SHA1-Digest: jrEzRoo7nJM2Wi9zXST5+THs8DI=
+SHA1-Digest: AGXGCtFPn6rTPuVeDwPkRokQZTg=
 
 Name: res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png
 SHA1-Digest: lOeGoKwpWYIFV6B63rPcuQHJLxE=
 
 Name: res/drawable/splash.png
-SHA1-Digest: tmYNqqbnXBCewSws5w5zjxCTpQw=
+SHA1-Digest: qoPT6fcOQ6FBB8iayj8mxeC8HJ0=
 
 Name: res/drawable-hdpi/common_signin_btn_text_normal_light.9.png
 SHA1-Digest: bh5nZcXoThLCFNHrfRfZ7hekAeg=
@@ -266,7 +266,7 @@ Name: res/drawable-hdpi/ic_launcher.png
 SHA1-Digest: gNI6gaGdPTm+EOKHIgQ6rXpciZQ=
 
 Name: assets/sounds/sfx_hit.ogg
-SHA1-Digest: cKwxvIpU5XxNe2GPw+sFYZmR7e8=
+SHA1-Digest: q9RA2eiLd2YVqcAHZmxbPOZU1sU=
 
 Name: res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png
 SHA1-Digest: J2y1T8oqc/NABH2KDtOMW8GMaWE=
@@ -306,7 +306,7 @@ Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.
 SHA1-Digest: tF/52x17X+ezb2NRKUosLyIic4Y=
 
 Name: classes.dex
-SHA1-Digest: JHM5Q/YZfketrRzu/Eo3XtFwl2M=
+SHA1-Digest: 9Q8EQGzxsCZaIYUjGWQTtMP/HfY=
 
 Name: res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png
 SHA1-Digest: KdTotkN4tKJK+VqkmI23GbeW45s=
