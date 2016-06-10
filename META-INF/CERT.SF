@@ -1,5 +1,5 @@
 Signature-Version: 1.0
-SHA1-Digest-Manifest: Fm4FsXRMrOA2tAyBROdgwtItepA=
+SHA1-Digest-Manifest: t1BKlrqRqUsuT/czXK6AFBAxoyE=
 Created-By: 1.0 (Android SignApk)
 
 Name: res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png
@@ -60,7 +60,7 @@ Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png
 SHA1-Digest: vjDZ3ra1IWFMCB77kkCawYmZElA=
 
 Name: res/drawable-xhdpi/ic_launcher.png
-SHA1-Digest: Le9IhYVcfI9qLmWzQJbYv/QEDl0=
+SHA1-Digest: DOvIHoextt/4e0D55RN3QeSrL+4=
 
 Name: res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png
 SHA1-Digest: 4MuwZJHiB4xla1jp9US79RLoqwY=
@@ -169,7 +169,7 @@ Name: res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png
 SHA1-Digest: lLlLaBhmHdka2O+pUIyaLowCAi0=
 
 Name: res/drawable-xxhdpi/ic_launcher.png
-SHA1-Digest: x2DLSCVABU8wYcdWaDLtpheuNGQ=
+SHA1-Digest: XwJErW9jbws10o6vB/k7lqfSr4c=
 
 Name: res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png
 SHA1-Digest: Vje0nK1q0vCExqAM3L2FxyRlfaQ=
@@ -192,10 +192,10 @@ Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.p
 SHA1-Digest: mu5Uc5N94dUENdSEv4Iotjt3hUE=
 
 Name: res/drawable-mdpi/ic_launcher.png
-SHA1-Digest: scOiy+U1qEC8xrGE96femzry4r8=
+SHA1-Digest: 5OdcnpbyR6s9ElQ/PHhLAEc5P/8=
 
 Name: assets/gfx/atlas.png
-SHA1-Digest: ktwaqK56j55tDInNOBJaSD3DG40=
+SHA1-Digest: 6RjVIeg5zYZ5zquDw4+gJJBVMU0=
 
 Name: res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png
 SHA1-Digest: m0cBq0iAZgmwfVVScmOKJQ3cYIs=
@@ -234,7 +234,7 @@ Name: res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png
 SHA1-Digest: TI3iVdJKTqe8+d393UplpaFVg1g=
 
 Name: res/drawable-xxxhdpi/ic_launcher.png
-SHA1-Digest: OCnk5q7n8idQ6WdjMrrwAdhfMGU=
+SHA1-Digest: 2nG6LHa5vJw0N7CwbRjRZ/8NRhU=
 
 Name: res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png
 SHA1-Digest: RwkN/Y268YmR4trWda2Z9JJq/jA=
@@ -263,7 +263,7 @@ Name: res/drawable-hdpi/common_signin_btn_text_normal_light.9.png
 SHA1-Digest: bh5nZcXoThLCFNHrfRfZ7hekAeg=
 
 Name: res/drawable-hdpi/ic_launcher.png
-SHA1-Digest: gNI6gaGdPTm+EOKHIgQ6rXpciZQ=
+SHA1-Digest: C60jDFSeUEiZueacyTGbbsxkSIo=
 
 Name: assets/sounds/sfx_hit.ogg
 SHA1-Digest: q9RA2eiLd2YVqcAHZmxbPOZU1sU=

@@ -59,7 +59,7 @@ Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png
 SHA1-Digest: +rf5rWPhyi1HrQ0EQgRyFrjAFn0=
 
 Name: res/drawable-xhdpi/ic_launcher.png
-SHA1-Digest: uvLlPK+wavn3kAr7fUeIV5i9Rvo=
+SHA1-Digest: h+ki6M52pqwGzI8rVkkriE+x2S8=
 
 Name: res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png
 SHA1-Digest: H3M45l3TzbI5bqwXQc+pqiivgiI=
@@ -168,7 +168,7 @@ Name: res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png
 SHA1-Digest: dlyC1g3UFccxhzDkcTFKyeN/a1U=
 
 Name: res/drawable-xxhdpi/ic_launcher.png
-SHA1-Digest: cbeka0gJ4ufadiBsDbpvCoyd3To=
+SHA1-Digest: 30Q08cZHXJz4+9anVuThEEmRo3U=
 
 Name: res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png
 SHA1-Digest: tN0X80ClRIsJHlYapfnxQK81xy4=
@@ -191,10 +191,10 @@ Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.p
 SHA1-Digest: /9atOqtPDBdAN8fQhRv3UDgC7sc=
 
 Name: res/drawable-mdpi/ic_launcher.png
-SHA1-Digest: okC/TK0RFNY++vEKq9KiDqHIu7o=
+SHA1-Digest: cPraPLvGbMktR8kRv0Oh2TtG2Vs=
 
 Name: assets/gfx/atlas.png
-SHA1-Digest: 4bo+ZlmWx8ToQupeTqEtuQo/rUw=
+SHA1-Digest: Gf0s4IykeQsCIir6uK/WaglviMQ=
 
 Name: res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png
 SHA1-Digest: Y7BgkIE5Z75txkMJIFho52FM/R8=
@@ -233,7 +233,7 @@ Name: res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png
 SHA1-Digest: dlyC1g3UFccxhzDkcTFKyeN/a1U=
 
 Name: res/drawable-xxxhdpi/ic_launcher.png
-SHA1-Digest: I2n2YhGGnPI9690dprV4tVQ85ZU=
+SHA1-Digest: EfGb1WNvn6f4pQ/nt1oYRfESvMM=
 
 Name: res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png
 SHA1-Digest: e/1gfXv1VTsUSosCIqLmo08hhVo=
@@ -262,7 +262,7 @@ Name: res/drawable-hdpi/common_signin_btn_text_normal_light.9.png
 SHA1-Digest: 9WjUIGgn4/x4k4ckr/lPi4dGA2k=
 
 Name: res/drawable-hdpi/ic_launcher.png
-SHA1-Digest: mNhYGbMaDe2nOazKYL2TZwO79U0=
+SHA1-Digest: S8e8nTYW8yPEHbbWRHkKTAZd7yQ=
 
 Name: assets/sounds/sfx_hit.ogg
 SHA1-Digest: qxa31in6k6V2GV0vEtsRdNziqHw=
